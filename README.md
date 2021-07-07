@@ -1,7 +1,14 @@
-<h2> Hi, I'm Xuan Tung! <img src="https://i.pinimg.com/originals/c8/0d/5a/c80d5a2d2e1504e84a9d98f3cb825442.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Student at <a href="https://www.haui.edu.vn/vn">HAUI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://devtu.site/">DevTu</a><img src="https://i.pinimg.com/originals/c8/0d/5a/c80d5a2d2e1504e84a9d98f3cb825442.gif" width="30"> 
-</em></p>
+<h2> Hi, I'm Xuan Tung! 
+  <img src="https://i.pinimg.com/originals/c8/0d/5a/c80d5a2d2e1504e84a9d98f3cb825442.gif" width="50">
+</h2>
+<img align='right' src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
+<p>
+  <em>
+    Student at <a href="https://www.haui.edu.vn/vn">HAUI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  </br>
+    Developer Consultant at <a href="https://devtu.site/">DevTu</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </em>
+</p>
 
 ### Social:
 
