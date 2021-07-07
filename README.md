@@ -1,6 +1,6 @@
 <h2> Hi, I'm Xuan Tung! <img src="https://i.pinimg.com/originals/c8/0d/5a/c80d5a2d2e1504e84a9d98f3cb825442.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Student at <a href="https://www.haui.edu.vn/vn">HAUI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://devtu.site/">DevTu</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student at <a href="https://www.haui.edu.vn/vn">HAUI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://devtu.site/">DevTu</a><img src="https://i.pinimg.com/originals/c8/0d/5a/c80d5a2d2e1504e84a9d98f3cb825442.gif" width="30"> 
 </em></p>
 
 ### Social:
@@ -22,10 +22,60 @@ const tung = {
 }
 ```
 ### Languages and Features: 
+
+<a href = "https://github.com/" target="_blank">
+  <img 
+    title = "Git"
+    src = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg"
+    height="50px"
+  />
+</a>
+<a href = "https://www.linux.org/" target="_blank">
+  <img 
+    title = "Linux"
+    src = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linux/linux-original.svg"
+    height="50px"
+  />
+</a>
+<a href = "https://laravel.com/" target="_blank">
+  <img 
+    title = "Laravel"
+    src = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/laravel/laravel-plain.svg"
+    height="50px"
+  />
+</a>
+<a href = "https://www.mysql.com/" target="_blank">
+  <img 
+    title = "MySQL"
+    src = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-plain.svg"
+    height="50px"
+  />
+</a>
+<a href = "https://www.postgresql.org/" target="_blank">
+  <img 
+    title = "PostgreSQL"
+    src = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg"
+    height="50px"
+  />
+</a>
+<a href = "https://www.heroku.com/" target="_blank">
+  <img 
+    title = "Heroku"
+    src = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/heroku/heroku-original.svg"
+    height="50px"
+  />
+</a>
+<a href = "https://httpd.apache.org/" target="_blank">
+  <img 
+    title = "Apache"
+    src = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/apache/apache-original.svg"
+    height="50px"
+  />
+</a>
 <a href = "https://www.php.net/" target="_blank">
   <img 
     title = "PHP"
-    src = "https://upload.wikimedia.org/wikipedia/vi/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"
+    src = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/php/php-plain.svg"
     height="50px"
   />
 </a>
@@ -75,6 +125,13 @@ const tung = {
   <img 
     title = "Javascript"
     src = "https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/javascript/javascript.svg"
+    height="50px"
+  />
+</a>
+<a href="https://jquery.com/" target="_blank">
+  <img
+    title = "Jquery"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
     height="50px"
   />
 </a>
