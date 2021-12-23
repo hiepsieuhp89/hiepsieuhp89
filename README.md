@@ -24,8 +24,10 @@
 ```javascript
 const tung = {
   pronouns: "he, him",
-  code: [Javascript, PHP, HTML, CSS, Bootstrap, Jquery, Java, C#, C++, Ajax],
-  tools: [React JS, Node, Git, Laravel]
+  code: [Javascript, PHP, HTML, CSS, Bootstrap, Jquery, Java, C#, C++, Ajax, NodeJS],
+  frameworks_librarys: [ReactJS, ExpressJS, Laravel, ASP.NET],
+  tools: [Git]
+  long_term_job:[Fullstack Web Dev, PM, DevOps]
 }
 ```
 ### Languages and Features: 
