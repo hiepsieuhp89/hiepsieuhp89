@@ -4,7 +4,7 @@
 <img align='right' src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 <p>
   <em>
-    Student at <a href="https://www.haui.edu.vn/vn">HAUI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    A Strong Fullstack Developer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </br>
     Developer Consultant at <a href="https://devtu.site/">DevTu</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </em>
